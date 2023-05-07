@@ -1,6 +1,13 @@
 
 import styled from "styled-components";
 
+export const LandingPage = styled.div`
+    margin: 100px;
+    padding: 30px;
+    font-size: x-large;
+    text-align: center;
+`
+
 export const GrupoFrases = styled.div`
     margin: 20px;
     text-align: center;
