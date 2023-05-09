@@ -4,7 +4,6 @@ import { texts } from './texts';
 import { GrupoFrases, Btn, Forma, LandingPage } from './styled';
 
 
-
 export default function App() {
 
   const [bgImage, setBgImage] = useState(texts[0].img);

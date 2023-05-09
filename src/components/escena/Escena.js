@@ -1,12 +1,14 @@
 import React from 'react';
 
-export default function Escena(props) {
+const Escena = (props) => {
     return (
         <div>
             <p>{props.name}</p>
         </div>
     )
 }
+
+export default Escena;
 
 
 
